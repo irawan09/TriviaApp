@@ -1,1 +1,1 @@
-"# TriviaApp" 
+# TriviaApp
